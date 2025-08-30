@@ -3,6 +3,7 @@
 **`Desenvolvedor`**
 
 Me chamo Lucas Faria Guimarães Reis, tenho 19 anos e sou natural de Minas Gerais. Atualmente, estou cursando Sistemas de informação na UFJF.
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
